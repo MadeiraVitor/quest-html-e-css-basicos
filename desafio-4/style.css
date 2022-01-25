@@ -1,0 +1,22 @@
+.cabecalho{
+    background-color: #BB86FC;
+    color: white;
+}
+
+.cabecalho2{
+    background-color: #00C4B4;
+    color: white;
+}
+
+.dados{
+    background-color: #424250;
+    color: white;
+}
+
+th{
+    padding: 10px;
+}
+
+td{
+    padding: 10px;
+}
